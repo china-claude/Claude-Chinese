@@ -1,12 +1,12 @@
 # Claude 4 国内使用全攻略（支持Claude-4-Sonnet，免翻墙使用！）【2025年6月最新】
 
-**最新更新：2025-06-10**
+**最新更新：2025-06-11**
 
 本教程汇总了在国内使用 Claude 的方法，无需翻墙，全面使用 Claude Sonnet 4、Claude 3.7 及多种中文功能版本。
 
 在这里，你将获得最权威的 Claude 国内访问方式，包括可用的 Claude 网页版入口、国内镜像站点推荐、Claude 中文网站对比，以及详细操作指引，助你快速上手 Claude！
 
-**Claude 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**Claude 中文版入口：[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
 **Claude 镜像网站：[https://chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
@@ -24,7 +24,7 @@
 
 ## Claude 中文版是什么？
 
-[Claude 中文版](https://chat.lanjing.pro) 是Anthropic Claude模型的本地化中文应用版本，专为中国用户量身优化，带来高效、流畅的AI对话体验。  
+[Claude 中文版](https://chat.lanjingai.org) 是Anthropic Claude模型的本地化中文应用版本，专为中国用户量身优化，带来高效、流畅的AI对话体验。  
 对比官方站点，Claude 中文版具备多个适合国内用户的亮点：
 
 - **免翻墙访问**：国内站点直连，无需使用任何代理。
@@ -38,7 +38,7 @@
 | 平台名称               | 访问链接                                                               | 支持模型                  | 注册/使用说明                         | 主要特色                                                                                 |
 | ---------------------- | ---------------------------------------------------------------------- | ------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------- |
 | **极简AI**             | [xsimplechat.com](https://xsimplechat.com/)                         | Claude 4 Sonnet/Opus      | 邮箱注册使用，有免费额度         | 全面支持Claude系列、Midjourney、AIPPT等热门AI功能                                        |
-| **蓝鲸AI**             | [chat.lanjing.pro](https://chat.lanjing.pro/)                                 | Claude 4 Sonnet/Thinking  | 邮箱注册使用，有免费额度         | 支持Claude、GPT、Gemini全系，深度集成deepseek r1，附带PPT生成、AI绘图等实用工具            |
+| **蓝鲸AI**             | [chat.lanjingai.org](https://chat.lanjingai.org/)                                 | Claude 4 Sonnet/Thinking  | 邮箱注册使用，有免费额度         | 支持Claude、GPT、Gemini全系，深度集成deepseek r1，附带PPT生成、AI绘图等实用工具            |
 | **一下AI**             | [chat.yixiaai.com](https://chat.yixiaai.com/)                     | Claude 4 Sonnet           | 微信扫码使用，有免费额度                         | 聚合GTP4o、Claude、Gemini等多模型镜像，入口丰富、多选项                                   |
 | **Claude智能助手**     | [yixiaai.cn](https://yixiaai.cn/)                               | Claude 4 Sonnet           | 你想要的，这儿全都有                       | 多模态能力，专业文档分析工具                                                              |
 | **AI助理**             | [chat.lanjingai.org](https://chat.lanjingai.org/)                         | Claude 4 Sonnet           | 邮箱注册使用，有免费额度              | 纯中文界面、无广告、极致简洁                                                             |
