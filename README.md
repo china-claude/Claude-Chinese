@@ -1,12 +1,12 @@
 # Claude 4 国内使用全攻略（支持Claude-4-Sonnet，免翻墙使用！）【2025年10月最新】
 
-**最新更新：2025-10-14** 
+**最新更新：2025-10-17** 
 
 本教程汇总了在国内使用 Claude 的方法，无需翻墙，全面使用 Claude Sonnet 4、Claude 3.7 及多种中文功能版本。
 
 在这里，你将获得最权威的 Claude 国内访问方式，包括可用的 Claude 网页版入口、国内镜像站点推荐、Claude 中文网站对比，以及详细操作指引，助你快速上手 Claude！
 
-**Claude 中文版入口：[https://ai.lanjingchat.com](https://ai.lanjingchat.com)**   
+**Claude 中文版入口：[https://lanjingchat.com](https://ai.lanjingchat.com)**   
 **Claude 镜像网站：[https://chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
